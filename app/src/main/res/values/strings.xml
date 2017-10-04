@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Get Page view source from link</string>
+
+    <string-array name="list">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
