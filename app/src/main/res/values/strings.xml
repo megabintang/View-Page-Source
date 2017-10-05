@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Get Page view source from link</string>
+    <string name="app_name">Page View-Source URL</string>
 
     <string-array name="list">
         <item>http://</item>

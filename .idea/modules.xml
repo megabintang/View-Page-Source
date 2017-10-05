@@ -3,8 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WebHTML.iml" filepath="$PROJECT_DIR$/WebHTML.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WebSourceDICKYtry.iml" filepath="$PROJECT_DIR$/WebSourceDICKYtry.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebSourceBintang.iml" filepath="$PROJECT_DIR$/WebSourceBintang.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

@@ -1,4 +1,4 @@
-package com.pagesource.dicky.webhtml;
+package com.viewsource.bintang.weburl;
 
 import org.junit.Test;
 
